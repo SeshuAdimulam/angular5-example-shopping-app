@@ -1,5 +1,5 @@
 # Angular 5 Example Shopping App + Angular Material + Responsive 
-
+# Added a line from GitHub
 > ### Made with :heart: 
 
 [![Join the chat at https://gitter.im/Angular-5-Example-Shopping-App/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Angular-5-Example-Shopping-App/Lobby)
